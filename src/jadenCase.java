@@ -3,12 +3,11 @@ Jaden Smith, the son of Will Smith, is the star of films such as The Karate Kid 
 Jaden is also known for some of his philosophy that he delivers via Twitter. When writing on Twitter, 
 he is known for almost always capitalizing every word.
 
-Your task is to convert strings to how they would be written by Jaden Smith. 
+Your task is to convert strings to how they would be written by Jaden Smith. Note that the Java version expects 
+a return value of null for an empty string or null.
 */ 
 
 public class JadenCase {
-
-
 	public static String toJadenCase(String str) {
 		String result = "";
 		String capitalized = "";
@@ -29,4 +28,4 @@ public class JadenCase {
 		}
 		return result;
 	}
-	}
+}
