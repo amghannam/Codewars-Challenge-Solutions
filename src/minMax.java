@@ -1,6 +1,6 @@
 /* 
 
-*** Story***
+*** Story ***
 
 * Ben has a very simple idea to make some profit: he buys something and sells it again. 
 * Of course, this wouldn't give him any profit at all if he was simply to buy and sell 
