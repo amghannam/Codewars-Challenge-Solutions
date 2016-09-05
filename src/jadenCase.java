@@ -20,7 +20,7 @@ public class JadenCase {
 			// Second, capitalize each word in the array.
 			capitalized = words[i].substring(0, 1).toUpperCase();
 			// Finally, concatenate the capitalized word with the result.
-			if (i == words.length - 1) {
+			if (i == words.length - 1) { // avoid adding extra whitespace if this is the last word
 				result += capitalized + words[i].substring(1, words[i].length());
 			} else {
 				result += capitalized + words[i].substring(1, words[i].length()) + " ";
