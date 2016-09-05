@@ -1,2 +1,2 @@
 # Codewars-Challenge-Solutions
-Solutions to select problems from Codewars.com. 
+Solutions to select problems from Codewars.com. Updated regularly. 
